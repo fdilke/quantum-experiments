@@ -59,7 +59,7 @@ When a coset of $`H`$ meets a coset of $`K`$, their intersection has size $`m`$,
 
 Suppose $`Hx \not \perp Ky`$. If $`z \; \varepsilon \; Hx \wedge Ky`$, we have $`Hx = Hz`$ and $`Ky = Kz`$, so
 
-$`|Hx \wedge Ky |= |Hz \wedge Kz|= |\; (H \wedge K)z| = |H \wedge K \;|`$. $`\Box`$
+$`| \; Hx \wedge Ky \; |= |Hz \wedge Kz \; |= |\; (H \wedge K)z \; | = | \; H \wedge K \;|`$. $`\Box`$
 
 **Proposition 3**
 When a coset of $`H`$ meets a coset of $`K`$, there is a coset of $`L`$ incident with both of them.
@@ -67,5 +67,3 @@ When a coset of $`H`$ meets a coset of $`K`$, there is a coset of $`L`$ incident
 Pick  $`z \; \varepsilon \; Hx \wedge Ky`$. Then clearly $`Lz`$ meets both $`Hx`$ and $`Ky`$. $`\Box`$
 
 This shows that coset geometries of rank $<= 3$ are Buekenhout.
-
-
