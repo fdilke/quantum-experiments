@@ -57,7 +57,7 @@ Applying right multiplication, the same holds for any other coset $`Hy`$ of $`H`
 **Proposition 2**
 When a coset of $`H`$ meets a coset of $`K`$, their intersection has size $`m`$, where $`m = |H \wedge K|`$.
 
-Suppose $`Hx \not \perp Ky`$. If $`z \; \varepsilon \; Hx \wedge Ky`$, we have $`Hx = Hz`$ and $`Ky = Kz`$, so we have to determine the size of $`Hx \wedge Ky = Hz \wedge Kz`$ ; but $`|Hz \wedge Kz|= |(H \wedge K)z| = |H \wedge K|`$. $`\Box`$
+Suppose $`Hx \not \perp Ky`$. If $`z \; \varepsilon \; Hx \wedge Ky`$, we have $`Hx = Hz`$ and $`Ky = Kz`$, so we have to determine the size of $`Hx \wedge Ky = Hz \wedge Kz`$ ; but $`|Hz \wedge Kz|= |\; (H \wedge K)z| = |H \wedge K \;|`$. $`\Box`$
 
 **Proposition 3**
 When a coset of $`H`$ meets a coset of $`K`$, there is a coset of $`L`$ incident with both of them.
