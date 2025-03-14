@@ -48,9 +48,9 @@ We consider right cosets (abbreviated as just "cosets") of subgroups $`H, K,  \d
  $`Hx \not \perp Ky`$ otherwise, in which case they _meet_ or are _incident_.
 
 **Proposition 1**
-Every coset of $`H`$ meets $`{n}`$ cosets of $`K`$, where $`{n} = |{H:(H \wedge K)}|`$.
+Every coset of $`H`$ meets ${n}$ cosets of $K$, where ${n} = |{H:(H \wedge K)}|$.
 
-When does $`H`$ meet $`Kx`$? Exactly when some `$xh^{-1} \; \varepsilon \; `K$, i.e. $`x \; \varepsilon \; KH`$, and this will count the coset $`Kx`$ just $`|K|`$ times. So this holds with $`n = |{KH}|/|{K}| =|{H:(H \wedge K)}|`$. 
+When does $`H`$ meet $`Kx`$? Exactly when some $xh^{-1} \; \varepsilon \; K$, i.e. $`x \; \varepsilon \; KH`$, and this will count the coset $`Kx`$ just $`|K|`$ times. So this holds with $`n = |{KH}|/|{K}| =|{H:(H \wedge K)}|`$. 
 
 Applying right multiplication, the same holds for any other coset $`Hy`$ of $`H`$. $`\Box`$
 
